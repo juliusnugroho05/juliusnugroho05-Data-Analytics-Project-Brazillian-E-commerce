@@ -12,5 +12,7 @@ Descriptive Analytics: To understand historical patterns and transaction behavio
 Diagnostic Analytics: To uncover the root causes of specific operational friction points, primarily investigating how delivery delays correlate with low customer satisfaction review scores.
 
 All detail of the project can be accesed from [Notion](https://app.notion.com/p/E-Commerce-Data-Analysis-Brazil-Olist-3670155f99b3802a9412d81487edb06d).
+
 The code can be accessed by [Code Notebook](Data_Analytics_Projects.ipynb)
 
+Tableau Visualization can be accesed by [Tableau](https://public.tableau.com/app/profile/julius.nugroho/viz/olist_17804082456300/Dashboard1).
